@@ -1,0 +1,25 @@
+.main_containt{
+    background-image: url("Background.jpg");
+}
+
+/* .main{
+    margin: 100px;
+    
+} */
+
+.main{
+    padding-top: 60px;
+    padding-left: 10%;;
+    padding-right: 10%;
+}
+.rd{
+    background-color: rgb(156, 174, 190);
+}
+
+#footer{
+    text-align: center;
+}
+
+.tittle{
+    text-align: center;
+}
